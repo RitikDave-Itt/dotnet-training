@@ -1,0 +1,7 @@
+C:\Users\ritik.dave\source\repos\RitikDave-Itt\dotnet-training\week1\day-4\bin\Debug\day-4.exe.config
+C:\Users\ritik.dave\source\repos\RitikDave-Itt\dotnet-training\week1\day-4\bin\Debug\day-4.exe
+C:\Users\ritik.dave\source\repos\RitikDave-Itt\dotnet-training\week1\day-4\bin\Debug\day-4.pdb
+C:\Users\ritik.dave\source\repos\RitikDave-Itt\dotnet-training\week1\day-4\obj\Debug\day-4.csproj.AssemblyReference.cache
+C:\Users\ritik.dave\source\repos\RitikDave-Itt\dotnet-training\week1\day-4\obj\Debug\day-4.csproj.CoreCompileInputs.cache
+C:\Users\ritik.dave\source\repos\RitikDave-Itt\dotnet-training\week1\day-4\obj\Debug\day-4.exe
+C:\Users\ritik.dave\source\repos\RitikDave-Itt\dotnet-training\week1\day-4\obj\Debug\day-4.pdb

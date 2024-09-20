@@ -1,0 +1,15 @@
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\bin\Debug\net8.0\pattern.exe
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\bin\Debug\net8.0\pattern.deps.json
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\bin\Debug\net8.0\pattern.runtimeconfig.json
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\bin\Debug\net8.0\pattern.dll
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\bin\Debug\net8.0\pattern.pdb
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\obj\Debug\net8.0\pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\obj\Debug\net8.0\pattern.AssemblyInfoInputs.cache
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\obj\Debug\net8.0\pattern.AssemblyInfo.cs
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\obj\Debug\net8.0\pattern.csproj.CoreCompileInputs.cache
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\obj\Debug\net8.0\pattern.sourcelink.json
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\obj\Debug\net8.0\pattern.dll
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\obj\Debug\net8.0\refint\pattern.dll
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\obj\Debug\net8.0\pattern.pdb
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\obj\Debug\net8.0\pattern.genruntimeconfig.cache
+C:\Users\ritik.dave\Source\Repos\RitikDave-Itt\dotnet-training\week1\day1\pattern\obj\Debug\net8.0\ref\pattern.dll
